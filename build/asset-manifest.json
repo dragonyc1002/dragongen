@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/dragongen/static/css/main.1454741c.chunk.css",
+    "main.js": "/dragongen/static/js/main.5df5648a.chunk.js",
+    "main.js.map": "/dragongen/static/js/main.5df5648a.chunk.js.map",
+    "polyfills-dom.js": "/dragongen/static/js/polyfills-dom.0ff31fe2.chunk.js",
+    "polyfills-dom.js.map": "/dragongen/static/js/polyfills-dom.0ff31fe2.chunk.js.map",
+    "runtime-main.js": "/dragongen/static/js/runtime-main.4e3d1452.js",
+    "runtime-main.js.map": "/dragongen/static/js/runtime-main.4e3d1452.js.map",
+    "static/js/3.7df1306b.chunk.js": "/dragongen/static/js/3.7df1306b.chunk.js",
+    "static/js/3.7df1306b.chunk.js.map": "/dragongen/static/js/3.7df1306b.chunk.js.map",
+    "static/js/4.0c190070.chunk.js": "/dragongen/static/js/4.0c190070.chunk.js",
+    "static/js/4.0c190070.chunk.js.map": "/dragongen/static/js/4.0c190070.chunk.js.map",
+    "static/js/5.6bc08b4b.chunk.js": "/dragongen/static/js/5.6bc08b4b.chunk.js",
+    "static/js/5.6bc08b4b.chunk.js.map": "/dragongen/static/js/5.6bc08b4b.chunk.js.map",
+    "index.html": "/dragongen/index.html",
+    "static/css/main.1454741c.chunk.css.map": "/dragongen/static/css/main.1454741c.chunk.css.map",
+    "static/js/3.7df1306b.chunk.js.LICENSE.txt": "/dragongen/static/js/3.7df1306b.chunk.js.LICENSE.txt",
+    "static/js/polyfills-dom.0ff31fe2.chunk.js.LICENSE.txt": "/dragongen/static/js/polyfills-dom.0ff31fe2.chunk.js.LICENSE.txt",
+    "static/media/avatar-dragon.fcdeafd1.png": "/dragongen/static/media/avatar-dragon.fcdeafd1.png",
+    "static/media/avatar-emu800jpn.a21b8753.png": "/dragongen/static/media/avatar-emu800jpn.a21b8753.png",
+    "static/media/avatar-emu900.60694974.png": "/dragongen/static/media/avatar-emu900.60694974.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4e3d1452.js",
+    "static/js/3.7df1306b.chunk.js",
+    "static/css/main.1454741c.chunk.css",
+    "static/js/main.5df5648a.chunk.js"
+  ]
+}
