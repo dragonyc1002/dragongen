@@ -85,7 +85,7 @@ class App extends React.Component {
         }}>
           <div style={{ fontWeight: 'bold', fontSize: '40px', width: '500px' }}>恐龍 訊息產生器</div>
           <div style={{ display: 'flex', flexDirection: 'row', justifyContent: 'flex-end', width: 'calc(100vw - 500px)' }}>
-            <a href="https://github.com/kyometori/acgen">原始碼</a>
+            <a href="https://github.com/hugocoding/dragongen">原始碼</a>
           </div>
         </header>
         <div style={{ margin: '30px 0' }}>
