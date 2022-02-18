@@ -5,7 +5,7 @@
   "main": "index.js",
   "author": "hugocoding",
   "license": "",
-  "homepage": "https://hugocoding.github.io/dragongen-main",
+  "homepage": "https://hugocoding.github.io/dragongen",
   "dependencies": {
     "@skyra/discord-components-core": "^2.11.2",
     "@skyra/discord-components-react": "^2.11.2",
