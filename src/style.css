@@ -35,3 +35,7 @@ a:hover {
 a:active {
   color: #37CD68;
 }
+
+.dark {
+  background-color: #000000;
+}
