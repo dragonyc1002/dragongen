@@ -1,7 +1,7 @@
 {
   "name": "Dragon-Message-Generator",
   "version": "1.0.0",
-  "description": "Generate a discord message that looks like 恐龍's saying",
+  "description": "Generate a discord message that looks like dragon's saying",
   "main": "index.js",
   "author": "hugocoding",
   "license": "",
