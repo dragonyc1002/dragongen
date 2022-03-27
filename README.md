@@ -39,12 +39,12 @@
 ```html
 <!DOCTYPE html>
 <html>
-<! -- 中間略 -->
+(中間略)
   <body>
   <style>
   body {
-    background-color: #000000; <!-- 這行是背景顏色，若刪除則為預設的#FFFFFF背景 -->
-    color: #FFFFFF; <! -- 這行是文字顏色 -->
+    background-color: #000000; ←這行是背景顏色，若刪除則為預設的#FFFFFF背景
+    color: #FFFFFF; ←這行是文字顏色
   }
   </style>
 </html>
