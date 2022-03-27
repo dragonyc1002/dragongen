@@ -36,7 +36,7 @@
 
 ## 補充
 本網站為黑色背景，若想改成其他顏色背景的，請到 `/public` 的 `index.html`
-```
+```html
 <!DOCTYPE html>
 <html>
 <! -- 中間略 -->
