@@ -33,3 +33,22 @@
   }
   ```
   其中的`--openssl-legacy-provider`是以Node v17去寫的，如果是v16就可以將`--openssl-legacy-provider`刪去。
+
+## 補充
+本網站為黑色背景，若想改成其他顏色背景的，請到 `/public` 的 `index.html`
+```
+<!DOCTYPE html>
+<html>
+<! -- 中間略 -->
+  <body>
+  <style>
+  body {
+    background-color: #000000; <!-- 這行是背景顏色，若刪除則為預設的#FFFFFF背景 -->
+    color: #FFFFFF; <! -- 這行是文字顏色 -->
+  }
+  </style>
+</html>
+```
+
+# 警告
+禁止以一切方式濫用此網站製造出違法言論。

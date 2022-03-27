@@ -2,6 +2,8 @@ import React from 'react';
 import avatar_dragon from './asset/avatar-dragon.png';
 import avatar_emu800jpn from './asset/avatar-emu800jpn.png';
 import avatar_emu900 from './asset/avatar-emu900.png';
+import avatar_FHfinal from './asset/FHfinal';
+import avatar_emu1200final from './asset/EMU1200final';
 import {
   DiscordMessages,
   DiscordMessage,
@@ -12,7 +14,9 @@ import {
 const avatar = {
   dragon: avatar_dragon,
   emu800jpn: avatar_emu800jpn,
-  emu900: avatar_emu900
+  emu900: avatar_emu900,
+  emu1200final: avatar_emu1200final,
+  FHfinal: avatar_FHfinal
 }
 
 export default function Renderer(props) {

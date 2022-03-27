@@ -13,7 +13,7 @@ class TimestampInput extends React.Component {
   render() {
     return (
       <fieldset>
-        <legend>時間點</legend>
+        <legend>發送時間</legend>
         <input type="text" value={this.props.default} onChange={this.handleChange}/>
       </fieldset>
     )

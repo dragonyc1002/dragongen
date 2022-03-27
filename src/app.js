@@ -34,7 +34,7 @@ class App extends React.Component {
     this.state = {
       content: config.content.random(),
       name: '恐龍',
-      avatar: 'emu900',
+      avatar: 'emu1200final',
       color: '#52cf52',
       timestamp: `${now.getFullYear()}/${now.getMonth()+1}/${now.getDate()}`,
       attachment: config.attachments.random(),
