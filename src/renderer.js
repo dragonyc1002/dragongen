@@ -2,8 +2,8 @@ import React from 'react';
 import avatar_dragon from './asset/avatar-dragon.png';
 import avatar_emu800jpn from './asset/avatar-emu800jpn.png';
 import avatar_emu900 from './asset/avatar-emu900.png';
-import avatar_FHfinal from './asset/FHfinal';
-import avatar_emu1200final from './asset/EMU1200final';
+import avatar_FHfinal from './asset/FHfinal.png';
+import avatar_emu1200final from './asset/EMU1200final.png';
 import {
   DiscordMessages,
   DiscordMessage,

@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/dragongen/static/css/main.1b67beab.chunk.css",
-    "main.js": "/dragongen/static/js/main.0a4ed00c.chunk.js",
-    "main.js.map": "/dragongen/static/js/main.0a4ed00c.chunk.js.map",
+    "main.js": "/dragongen/static/js/main.6d1c7706.chunk.js",
+    "main.js.map": "/dragongen/static/js/main.6d1c7706.chunk.js.map",
     "polyfills-dom.js": "/dragongen/static/js/polyfills-dom.0ff31fe2.chunk.js",
     "polyfills-dom.js.map": "/dragongen/static/js/polyfills-dom.0ff31fe2.chunk.js.map",
     "runtime-main.js": "/dragongen/static/js/runtime-main.4e3d1452.js",
@@ -17,6 +17,8 @@
     "static/css/main.1b67beab.chunk.css.map": "/dragongen/static/css/main.1b67beab.chunk.css.map",
     "static/js/3.7df1306b.chunk.js.LICENSE.txt": "/dragongen/static/js/3.7df1306b.chunk.js.LICENSE.txt",
     "static/js/polyfills-dom.0ff31fe2.chunk.js.LICENSE.txt": "/dragongen/static/js/polyfills-dom.0ff31fe2.chunk.js.LICENSE.txt",
+    "static/media/EMU1200final.3967cec1.png": "/dragongen/static/media/EMU1200final.3967cec1.png",
+    "static/media/FHfinal.d0854056.png": "/dragongen/static/media/FHfinal.d0854056.png",
     "static/media/avatar-dragon.fcdeafd1.png": "/dragongen/static/media/avatar-dragon.fcdeafd1.png",
     "static/media/avatar-emu800jpn.a21b8753.png": "/dragongen/static/media/avatar-emu800jpn.a21b8753.png",
     "static/media/avatar-emu900.60694974.png": "/dragongen/static/media/avatar-emu900.60694974.png"
@@ -25,6 +27,6 @@
     "static/js/runtime-main.4e3d1452.js",
     "static/js/3.7df1306b.chunk.js",
     "static/css/main.1b67beab.chunk.css",
-    "static/js/main.0a4ed00c.chunk.js"
+    "static/js/main.6d1c7706.chunk.js"
   ]
 }
